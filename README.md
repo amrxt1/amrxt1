@@ -4,42 +4,26 @@ I'm a full-stack dev and I live mostly in the backend.
 
 Currently working with:
 
-<div align="center">
-  <img src="logos/arch.svg" height="40"/>
-  <img src="logos/linux.svg" height="40"/>
-  <img src="logos/nvim.svg" height="40"/>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <img src="logos/html.svg" height="40"/>
-  <img src="logos/css.svg" height="40"/>
-  <img src="logos/js.svg" height="40"/>
-  <img src="logos/react.svg" height="40"/>
-  <img src="logos/tailwind.svg" height="40"/>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <img src="logos/py.svg" height="40"/>
-  <img src="logos/rb.svg" height="40"/>
-  <img src="logos/cpp.svg" height="40"/>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <img src="logos/rails.svg" height="40"/>
-  <img src="logos/selenium.svg" height="40"/>
-  <img src="logos/postman.svg" height="40"/>
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <img src="logos/postgres.svg" height="40"/>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
+  <img src="logos/arch.svg" style="height: 40px;" />
+  <img src="logos/linux.svg" style="height: 40px;" />
+  <img src="logos/nvim.svg" style="height: 40px;" />
+
+  <img src="logos/html.svg" style="height: 40px;" />
+  <img src="logos/css.svg" style="height: 40px;" />
+  <img src="logos/js.svg" style="height: 40px;" />
+  <img src="logos/react.svg" style="height: 40px;" />
+  <img src="logos/tailwind.svg" style="height: 40px;" />
+
+  <img src="logos/py.svg" style="height: 40px;" />
+  <img src="logos/rb.svg" style="height: 40px;" />
+  <img src="logos/cpp.svg" style="height: 40px;" />
+
+  <img src="logos/rails.svg" style="height: 40px;" />
+  <img src="logos/selenium.svg" style="height: 40px;" />
+  <img src="logos/postman.svg" style="height: 40px;" />
+
+  <img src="logos/postgres.svg" style="height: 40px;" />
 </div>
 
 ---
